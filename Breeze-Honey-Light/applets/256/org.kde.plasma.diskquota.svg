@@ -10,8 +10,8 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="org.svgz">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="org.kde.plasma.diskquota.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -33,12 +33,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="989"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="2.6074563"
-     inkscape:cx="235.94999"
+     inkscape:cx="167.49247"
      inkscape:cy="149.11324"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -122,7 +122,7 @@
      height="110"
      width="6"
      id="rect6599"
-     style="fill:currentColor;fill-opacity:1;stroke:none"
+     style="fill:#960096;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <rect
@@ -142,7 +142,7 @@
      height="150"
      width="6"
      id="rect6599-9"
-     style="fill:currentColor;fill-opacity:1;stroke:none"
+     style="fill:#960096;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <rect
@@ -162,7 +162,7 @@
      height="55"
      width="6"
      id="rect6599-9-5"
-     style="fill:currentColor;fill-opacity:1;stroke:none"
+     style="fill:#960096;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <g
