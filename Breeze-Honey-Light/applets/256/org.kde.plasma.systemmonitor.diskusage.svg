@@ -34,12 +34,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1028"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="2.6074563"
-     inkscape:cx="82.363567"
-     inkscape:cy="83.327689"
+     inkscape:cx="7.194522"
+     inkscape:cy="129.34955"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -116,7 +116,7 @@
      height="133.07344"
      width="6"
      id="rect6599"
-     style="color:#3daee9;fill:#960096;fill-opacity:1;stroke:none"
+     style="color:#3daee9;fill:#820082;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <rect
@@ -136,7 +136,7 @@
      height="185"
      width="6"
      id="rect6599-9"
-     style="color:#3daee9;fill:#960096;fill-opacity:1;stroke:none"
+     style="color:#3daee9;fill:#820082;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
   <rect
@@ -156,7 +156,7 @@
      height="25"
      width="6"
      id="rect6599-9-5"
-     style="color:#3daee9;fill:#960096;fill-opacity:1;stroke:none"
+     style="color:#3daee9;fill:#820082;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Highlight" />
 </svg>

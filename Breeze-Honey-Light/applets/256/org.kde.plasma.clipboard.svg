@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1028"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="-78.765262"
+     inkscape:cx="-185.07035"
      inkscape:cy="115.21664"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -534,7 +534,7 @@
      class="ColorScheme-Background"
      id="rect4238" />
   <path
-     style="fill:#1d61ff;fill-opacity:1;stroke:none"
+     style="fill:#174bc5;fill-opacity:1;stroke:none"
      d="m 16.785744,17.025921 221.999996,0 0,24.000023 -221.999996,0 z"
      class="ColorScheme-Highlight"
      id="rect10264" />
